@@ -32,16 +32,16 @@ Enter the age of student 3: 18
 Enter the GPA of student 3: 3.8
 Enter the faculty of student 3: Science
 
-```c
 _______________________________________________________________
 |       Name         |   Age   |   GPA   |       Faculty      |
 |--------------------|---------|---------|--------------------|
 |       Alice        |       19|     3.50|     Engineering    |
 |        Bob         |       20|     3.20|      Business      |
-|      Charlie       |       18|     3.80|       Science      |
+|      Charlie       |       18|     3.80|      Computing     |
 
+```
 
-##Disclaimer
+## Disclaimer
 I created this code for personal enjoyment and to combat boredom. Feel free to use it, modify it, or share it as you see fit. However, I make no guarantees about its suitability for any particular purpose.
 
 If you have any questions or suggestions, please don't hesitate to reach out.😊
