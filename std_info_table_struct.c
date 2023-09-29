@@ -41,7 +41,7 @@ int main() {
     // Print student information in a formatted table
     for (i = 0; i < nostd; i++) {
         printf("|%*s%s%*s|%*d|%*.2f|%*s%s%*s|\n",
-        	// first column
+            // first column
             (20 - strlen(students[i].name)) / 2, "", students[i].name,
             20 - (20 - strlen(students[i].name)) / 2 - strlen(students[i].name), "",
             // second column
